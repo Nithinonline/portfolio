@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Trex game clone",
+      "imageSrc": "images/TrexProject.png",
+      "description": "This is a clone of Trex game made using javascript.",
+      "demo": "https://trex-game-clone.vercel.app/",
+      "source": "https://github.com/Nithinonline/Trex-game-clone"
+    },
+   
+    {
+      "title": "Pokemon Search",
+      "imageSrc": "images/Pokemon.png",
+      "description": "Pokemon Search using react class component.",
+    
+      "demo": "https://pokemon-search-murex.vercel.app/",
+      "source": "https://github.com/Nithinonline/Pokemon-Search"
+    },
+    {
+      "title": "Simple Calculator",
+      "imageSrc": "images/Calculator.png",
+      "description": "This is simple calculator made using react.",
+    
+      "demo": "https://simple-calculator-neon.vercel.app/",
+      "source": "https://github.com/Nithinonline/Simple-Calculator"
+    }
+   
+  ]
