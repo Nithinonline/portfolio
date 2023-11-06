@@ -1,24 +1,24 @@
 [
   {
     "title":"HTML",
-    "imageSrc": "images/html.png"
+    "imageSrc": "src/images/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "images/css.png"
+    "imageSrc": "src/images/css.png"
   },
   {
     "title": "React",
-    "imageSrc": "images/react.png"
+    "imageSrc": "src/images/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "images/node.png"
+    "imageSrc": "src/images/node.png"
   },
  
   {
     "title": "MongoDB",
-    "imageSrc": "images/mongodb.png"
+    "imageSrc": "src/images/mongodb.png"
   }
  
 ]

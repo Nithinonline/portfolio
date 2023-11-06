@@ -16,7 +16,7 @@ function Hero() {
                
             </div>
 
-            <img src="images/profile2.png" alt="profile" className={styles.heroImg} />
+            <img src="src/images/profile2.png" alt="profile" className={styles.heroImg} />
            
 
             
