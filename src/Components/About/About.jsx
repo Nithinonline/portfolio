@@ -7,13 +7,13 @@ function About() {
             {/* <h2 className={styles.title}>About</h2> */}
             <div className={styles.content}>
                 <img
-                    src="src/images/about.png"
+                    src="/images/about.png"
                     alt="Me sitting with a laptop"
                     className={styles.aboutImage} />
 
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
-                        <img src="src/images/FEicon.png" alt="Cursor icon" />
+                        <img src="/images/FEicon.png" alt="Cursor icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
                             <p>
@@ -24,7 +24,7 @@ function About() {
                     </li>
 
                     <li className={styles.aboutItem}>
-                        <img src="src/images/BEicon.png" alt="Server icon" />
+                        <img src="/images/BEicon.png" alt="Server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
                             <p>
@@ -35,7 +35,7 @@ function About() {
                     </li>
 
                     <li className={styles.aboutItem}>
-                        <img src="src/images/DB.png" alt="UI icon" />
+                        <img src="/images/DB.png" alt="UI icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Database manager</h3>
                             <p>

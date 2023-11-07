@@ -22,25 +22,25 @@ export const Contact = () => {
 
                 <ul className={styles.links}>
                     <li className={styles.link}>
-                        <img src="src/images/emailIcon.png" alt="Email icon" />
+                        <img src="/images/emailIcon.png" alt="Email icon" />
                         <a href="mailto:nithinonline00055@gmail.com" target='_blank'>nithinonline00055@gmail.com</a>
                     </li>
 
                     <li className={styles.link}>
                         <img
-                            src="src/images/linkedinIcon.png"
+                            src="/images/linkedinIcon.png"
                             alt="LinkedIn icon"
                         />
                         <a href="https://www.linkedin.com/in/webdev-nithin-suresh/" target='_blank'>linkedin.com/NITHIN SURESH</a>
                     </li>
 
                     <li className={styles.link}>
-                        <img src="src/images/githubIcon.png" alt="Github icon" />
+                        <img src="/images/githubIcon.png" alt="Github icon" />
                         <a href="https://github.com/Nithinonline" target='_blank'>github.com/Nithinonline</a>
                     </li>
 
                     <li className={styles.link}>
-                        <img src="src/images/IG.png" alt="IG icon" />
+                        <img src="/images/IG.png" alt="IG icon" />
                         <a href="https://www.instagram.com/nithinify/" target='_blank'>instagram.com/nithinify</a>
                     </li>
 
