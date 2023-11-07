@@ -63,3 +63,57 @@
   padding: 10px 30px;
  
 }
+
+
+
+@media screen and (max-width: 830px) {
+  
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #564F6F 0%, #564F6F 100%);
+  box-shadow: 0 16px 14px 0 #000000;
+  padding: 18px 24px;
+  max-width: 245px;
+  min-height: 300px;
+  margin: 15px;
+ 
+ 
+}
+
+.links {
+  width: 100%;
+  margin-top: auto;
+  display: flex;
+  justify-content: space-around;
+
+
+  
+}
+
+.link {
+  margin-top: 5px;
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 80px;
+  background: var(--color-bg);
+  padding: 10px 20px;
+ 
+}
+.container:hover{
+  scale: 1.1;
+  transition: 0.5s;
+}
+.description {
+  margin-top: 6px;
+  font-size: 17px;
+  font-weight: 400;
+}
+.title {
+  font-size: 20px;
+  font-weight: 700;
+}
+}
