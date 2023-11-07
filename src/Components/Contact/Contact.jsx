@@ -19,13 +19,9 @@ export const Contact = () => {
                     <ContactUs />
                 </div >
 
-
+             <div className={styles.social}>
                 <ul className={styles.links}>
-                    <li className={styles.link}>
-                        <img src="/images/emailIcon.png" alt="Email icon" />
-                        <a href="mailto:nithinonline00055@gmail.com" target='_blank'>nithinonline00055@gmail.com</a>
-                    </li>
-
+                 
                     <li className={styles.link}>
                         <img
                             src="/images/linkedinIcon.png"
@@ -46,7 +42,7 @@ export const Contact = () => {
 
                 </ul>
 
-               
+                </div>
       
             </footer>
 

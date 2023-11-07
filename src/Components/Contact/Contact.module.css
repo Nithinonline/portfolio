@@ -50,6 +50,7 @@
 }
 
 @media screen and (max-width: 830px) {
+
   .container {
     flex-direction: column;
     gap: 23px;
@@ -63,7 +64,18 @@
 
   .links {
     align-items: center;
+    font-size: 5px;
+  
+  
   }
+  .link{
+    font-size: 5px;
+  }
+ 
+  img{
+    width: 30px;
+  }
+
 }
 
 
