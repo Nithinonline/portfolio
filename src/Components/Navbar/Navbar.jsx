@@ -15,7 +15,7 @@ function Navbar() {
             <div className={styles.menu}>
             <img className={styles.menuBtn} 
             onClick={()=>{setMenuOpen(!menuOpen)}}
-            src={ menuOpen ? "https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/close-window-icon-18-256.png" : "  https://flaticons.net/icon.php?slug_category=user-interface&slug_icon=row "}
+            src={ menuOpen ? "/images/closed.png" : "/images/menuicon.png"}
             alt="icon" 
             /> 
           
