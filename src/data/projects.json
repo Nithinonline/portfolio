@@ -2,7 +2,7 @@
     {
       "title": "Trex game clone",
       "imageSrc": "/images/TrexProject.png",
-      "description": "This is a clone of Trex game made using javascript.",
+      "description": "Trex game clone developed using javascript.",
       "demo": "https://trex-game-clone.vercel.app/",
       "source": "https://github.com/Nithinonline/Trex-game-clone"
     },
@@ -18,7 +18,7 @@
     {
       "title": "Simple Calculator",
       "imageSrc": "/images/Calculator.png",
-      "description": "This is simple calculator made using react.",
+      "description": "This is a simple calculator  made using react.",
     
       "demo": "https://simple-calculator-neon.vercel.app/",
       "source": "https://github.com/Nithinonline/Simple-Calculator"

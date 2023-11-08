@@ -1,5 +1,9 @@
 [
   {
+    "title": "JavaScript",
+    "imageSrc":"/images/JS.png"
+  },
+  {
     "title":"HTML",
     "imageSrc": "/images/html.png"
   },
@@ -23,7 +27,13 @@
   {
     "title": "Rest API",
     "imageSrc":"/images/API.png"
+  },
+  {
+    "title": "Version Control",
+    "imageSrc": "/images/VC.png"
   }
+  
+ 
  
 ]
 
