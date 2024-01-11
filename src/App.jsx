@@ -9,6 +9,7 @@ import Hero from './Components/Hero/Hero'
 import Navbar from './Components/Navbar/Navbar'
 import { Projects } from './Components/Projects/Project'
 import Cursor from './Components/AnimatedCursor'
+import NewProjects from './Components/Projects/ProjectCard2'
 
 
 

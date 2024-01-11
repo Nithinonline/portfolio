@@ -33,7 +33,7 @@ export const Experience = () => {
         
 
 
-      <section className={styles.container2}>  
+      {/* <section className={styles.container2}>  
         <ul className={styles.history}>
           {history.map((historyItem, id) => {
             return (
@@ -46,7 +46,7 @@ export const Experience = () => {
             );
           })}
         </ul>
-        </section>
+        </section> */}
 
 
 
