@@ -12,7 +12,7 @@ function Hero() {
                 <p className={styles.description}>
                 Aspiring MERN stack developer, enthusiastic about crafting dynamic web applications and eager to contribute my skills in a dynamic development environment.
                 </p>
-               <a className={styles.contactBtn} href='https://drive.google.com/file/d/1NLXbSTUXojBmtgJOOCtlmEMbBcF_TzEX/view?usp=drive_link' target='_blank'> Download CV</a>
+               <a className={styles.contactBtn} href='https://drive.google.com/file/d/1552Ry1oK5UJLqKoI80cKHAfOb2W7qOcE/view?usp=sharing' target='_blank'> Download CV</a>
                
             </div>
 
