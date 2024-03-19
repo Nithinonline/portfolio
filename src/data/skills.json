@@ -12,6 +12,10 @@
     "imageSrc": "/images/css.png"
   },
   {
+    "title": "Tailwind CSS",
+    "imageSrc": "/images/tailwind.png"
+  },
+  {
     "title": "React",
     "imageSrc": "/images/react.png"
   },
@@ -31,7 +35,12 @@
   {
     "title": "Version Control",
     "imageSrc": "/images/VC.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "/images/redux.png"
   }
+ 
   
  
  

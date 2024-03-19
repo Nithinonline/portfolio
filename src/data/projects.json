@@ -1,27 +1,26 @@
 [
     {
-      "title": "Trex game clone",
-      "imageSrc": "/images/TrexProject.png",
-      "description": "Trex game clone developed using javascript.",
-      "demo": "https://trex-game-clone.vercel.app/",
-      "source": "https://github.com/Nithinonline/Trex-game-clone"
+      "title": "Cinewave:OTT streaming platform",
+      "imageSrc": "/images/OTT.png",
+      "description": " Rest API, Express.js, Node.js, Frontend using React.js, Firebase Storage, Context API, JWT Token Authentication with refresh token, MongoDB.",
+      "demo": "",
+      "source": "https://github.com/Nithinonline/Netflix-Project"
     },
    
     {
-      "title": "Pokemon Search",
-      "imageSrc": "/images/Pokemon.png",
-      "description": "Pokemon Search using react class component.",
-    
-      "demo": "https://pokemon-search-murex.vercel.app/",
-      "source": "https://github.com/Nithinonline/Pokemon-Search"
+      "title": "To Do List",
+      "imageSrc": "/images/ToDo.png",
+      "description": "Frontend using React.js, REST API, Node.js, Express.js, MongoDB",
+      "demo": "",
+      "source": "https://github.com/Nithinonline/ToDoList"
     },
     {
-      "title": "Simple Calculator",
-      "imageSrc": "/images/Calculator.png",
-      "description": "This is a simple calculator  made using react.",
+      "title": "Advanced Store REST API",
+      "imageSrc": "/images/Code.png",
+      "description": " Node.js, Express.js, Destructive sorting, Advanced query params.",
     
-      "demo": "https://simple-calculator-neon.vercel.app/",
-      "source": "https://github.com/Nithinonline/Simple-Calculator"
+      "demo": "",
+      "source": "https://github.com/Nithinonline/StoreBE"
     }
    
   ]
